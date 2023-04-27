@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810044908015",
+    "project_id": "fir-carmen",
+    "storage_bucket": "fir-carmen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810044908015:android:6357d0ccb177f79a44961a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realtime_icm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810044908015-rq445fg9r8064emte0lh62dqnsg0nlo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBk9ULQv1CpVRvFWGziQ47hzx9OgPOME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810044908015-rq445fg9r8064emte0lh62dqnsg0nlo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
